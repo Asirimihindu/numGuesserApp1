@@ -1,0 +1,7 @@
+C:\Users\Asiri\source\repos\numGuesserApp1\bin\Debug\numGuesserApp1.exe.config
+C:\Users\Asiri\source\repos\numGuesserApp1\bin\Debug\numGuesserApp1.exe
+C:\Users\Asiri\source\repos\numGuesserApp1\bin\Debug\numGuesserApp1.pdb
+C:\Users\Asiri\source\repos\numGuesserApp1\obj\Debug\numGuesserApp1.csprojAssemblyReference.cache
+C:\Users\Asiri\source\repos\numGuesserApp1\obj\Debug\numGuesserApp1.csproj.CoreCompileInputs.cache
+C:\Users\Asiri\source\repos\numGuesserApp1\obj\Debug\numGuesserApp1.exe
+C:\Users\Asiri\source\repos\numGuesserApp1\obj\Debug\numGuesserApp1.pdb
